@@ -82,9 +82,13 @@ Here are some ideas to get you started:
 <p><a href="https://blog.naver.com/junmo8492">블로그</a></p>
 
 <img src="https://cosmicmansion.co.kr/web/upload/ddongrim/main2_01.jpg" width="500px"/>
-<img src="https://img.shields.io/badge/nujgnoej-000000?style=badge&logo=Apache&logoColor=EF7B4D"/>
-<img src="https://img.shields.io/badge/nujgnoej-000000?style=for-the-badge&logo=Apache&logoColor=EF7B4D"/>
-<img src="https://img.shields.io/badge/nujgnoej-000000?style=plastic&logo=Apache&logoColor=EF7B4D"/>
-<img src="https://img.shields.io/badge/nujgnoej-000000?style=flat&logo=Apache&logoColor=EF7B4D"/>
-<img src="https://img.shields.io/badge/nujgnoej-000000?style=flat-square&logo=Apache&logoColor=EF7B4D"/>
-<img src="https://img.shields.io/badge/nujgnoej-000000?style=social&logo=Apache&logoColor=EF7B4D"/>
+<img src="https://img.shields.io/badge/nujgnoej-000000?style=badge&logo=Tesla&logoColor=EF7B4D"/>
+<img src="https://img.shields.io/badge/nujgnoej-000000?style=for-the-badge&logo=Tesla&logoColor=EF7B4D"/>
+<img src="https://img.shields.io/badge/nujgnoej-000000?style=plastic&logo=Tesla&logoColor=EF7B4D"/>
+<img src="https://img.shields.io/badge/nujgnoej-000000?style=flat&logo=Tesla&logoColor=EF7B4D"/>
+<img src="https://img.shields.io/badge/nujgnoej-000000?style=flat-square&logo=Tesla&logoColor=EF7B4D"/>
+<img src="https://img.shields.io/badge/nujgnoej-000000?style=social&logo=Tesla&logoColor=EF7B4D"/>
+
+<!-- 깃허브 상태(스탭-step) 등록하기 -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical) -->
+
