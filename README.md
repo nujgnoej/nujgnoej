@@ -82,4 +82,9 @@ Here are some ideas to get you started:
 <p><a href="https://blog.naver.com/junmo8492">블로그</a></p>
 
 <img src="https://cosmicmansion.co.kr/web/upload/ddongrim/main2_01.jpg" width="500px"/>
-<img src="https://img.shilds.io/badge/nujgnoej-000000?style=badge&logo=Argo&logoColor=#EF7B4D"/>
+<img src="https://img.shields.io/badge/nujgnoej-000000?style=badge&logo=Argo&logoColor=EF7B4D"/>
+<img src="https://img.shields.io/badge/nujgnoej-000000?style=for-the-badge&logo=Argo&logoColor=EF7B4D"/>
+<img src="https://img.shields.io/badge/nujgnoej-000000?style=plastic&logo=Argo&logoColor=EF7B4D"/>
+<img src="https://img.shields.io/badge/nujgnoej-000000?style=flat&logo=Argo&logoColor=EF7B4D"/>
+<img src="https://img.shields.io/badge/nujgnoej-000000?style=flat-square&logo=Argo&logoColor=EF7B4D"/>
+<img src="https://img.shields.io/badge/nujgnoej-000000?style=social&logo=Argo&logoColor=EF7B4D"/>
